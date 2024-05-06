@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "cmake.sourceDirectory": "/home/jomaxdrill/projects/python/ENPM661/Project5/CAF_RRT_STAR/ROS_sim/src/turtlebot3"
+}
